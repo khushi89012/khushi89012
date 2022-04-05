@@ -19,3 +19,24 @@ Here are some ideas to get you started:
 
 <h2 align="center" border="0">My Tech Stack <img src="[![JavaScript_HTML_CSS_NodeJS_MongoDB_Redis_AWS_ReactJS_Express_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_NodeJS_MongoDB_Redis_AWS_ReactJS_Express_)](https://pimp-my-readme.webapp.io)" width="35"/></h2>
 
+<br>
+<table align="center">
+
+<tbody>
+
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗖𝗦𝗦𝟯</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+
+</td>
