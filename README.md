@@ -1,4 +1,4 @@
-[![Khushi Gupta ,I'm a passionate Full Stack Developer from India.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20passionate%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Khushi%20Gupta%20)](https://www.linkedin.com/in/khushi-gupta-279650229/)
+[![Khushi Gupta ,I'm a passionate Full Stack Developer from India.🧑‍💻](https://www.canva.com/design/DAE9y0iB6OI/c50Oq_k8EoanmaEjXFyZVQ/watch?utm_content=DAE9y0iB6OI&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)](https://www.linkedin.com/in/khushi-gupta-279650229/)
 
 <!-- <h1 align="center"> <img src="https://achintya-portfolio.vercel.app/plane.gif" width="150" ></h1> -->
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Khushi Gupta</h1>
