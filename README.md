@@ -1,3 +1,9 @@
+
+<img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/banner.png" alt="Banner about Arturs Smirnovs">
+
+I'm Arturs and i'm full stack web / app developer with more then 10 years experience.
+I have been working in various fields, starting from crypto currency, finances and ending with human resources.
+I have always been hard working and goal's focused with proven results.
 [![Khushi Gupta ,I'm a passionate Full Stack Developer from India.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20passionate%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Khushi%20Gupta%20)])
 
 <!-- <h1 align="center"> <img src="https://achintya-portfolio.vercel.app/plane.gif" width="150" ></h1> -->
