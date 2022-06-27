@@ -147,7 +147,6 @@
 
 
 
-<a href="https://github.com/khushi89012/github-readme-activity-graph"><img alt="Khushi Gupta" src="https://activity-graph.herokuapp.com/graph?username=Nitish8800&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
 
 
 
