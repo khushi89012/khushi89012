@@ -1,6 +1,6 @@
 
 
-[Khushi Gupta ,I'm a passionate Full Stack Developer from India.🧑‍💻
+Khushi Gupta ,I'm a passionate Full Stack Developer from India.🧑‍💻
 
 <!-- <h1 align="center"> <img src="https://achintya-portfolio.vercel.app/plane.gif" width="150" ></h1> -->
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Khushi Gupta</h1>
