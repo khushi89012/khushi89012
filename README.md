@@ -98,21 +98,4 @@
     <p align="center">
         <a href="https://www.linkedin.com/in/khushi-gupta-279650229/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-        </a>
-    </p>
-
-    <hr>
-
-    <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi89012&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085"
-            alt="Khushi Gupta">
-    </p>
-
-    <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi89012&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085"
-            alt="Khushi Gupta">
-    </p>
-
-    <p align="center">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi89012&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085"
-            alt="Khushi Gupta
+       
